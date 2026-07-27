@@ -1,0 +1,9 @@
+title: Thuthar AI
+description: AI-powered Mizo News App
+theme: minima
+
+header_pages:
+  - about.md
+  - privacy.md
+  - contact.md
+  - terms.md
