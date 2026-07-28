@@ -153,6 +153,4 @@ Developer: Isaac Darlong
 
 Email: darlongisaac@gmail.com
 
-Phone: +91 83680 03695
-
 For support, legal inquiries, copyright concerns, corrections, or policy-related matters, please contact us using the information above.
