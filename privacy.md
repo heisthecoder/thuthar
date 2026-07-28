@@ -135,7 +135,5 @@ Developer: Isaac Darlong
 
 Email: darlongisaac@gmail.com
 
-Phone: +91 83680 03695
-
 For privacy-related questions or concerns, please contact us using the details above.
 If you have questions about this Privacy Policy, please contact us through the Contact page.
